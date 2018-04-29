@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# プロジェクト固有
+*.jpg
+*.jpeg
+*.png
+result/
